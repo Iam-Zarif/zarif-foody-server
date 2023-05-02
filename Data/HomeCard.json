@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "chefPicture": "https://ibb.co/wYYw373",
+    "chefPicture": "./images/chef1.jpg",
     "chefName": "Alice Smith",
     "yearsOfExperience": 10,
     "numberOfRecipes": 50,
