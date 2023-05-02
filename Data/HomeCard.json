@@ -1,11 +1,12 @@
 [
   {
     "id": 1,
-    "chefPicture": "https://example.com/chef1.jpg",
+    "chefPicture": "https://ibb.co/wYYw373",
     "chefName": "Alice Smith",
     "yearsOfExperience": 10,
     "numberOfRecipes": 50,
-    "likes": 1000
+    "likes": 1000,
+    "bio": "Alice Smith is a seasoned chef with 10 years of experience in the culinary industry. She has a passion for creating delicious and unique recipes that showcase her creativity and skill. Her recipes are loved by many and have garnered over 1000 likes."
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
     "chefName": "Bob Johnson",
     "yearsOfExperience": 8,
     "numberOfRecipes": 40,
-    "likes": 800
+    "likes": 800,
+    "bio": "Bob Johnson is a talented chef with 8 years of experience in the kitchen. He specializes in creating classic dishes with a modern twist, and his recipes have earned him a loyal following. With over 800 likes, his dishes are sure to impress."
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
     "chefName": "Cathy Lee",
     "yearsOfExperience": 15,
     "numberOfRecipes": 70,
-    "likes": 1200
+    "likes": 1200,
+    "bio": "Cathy Lee is a master chef with 15 years of experience in the culinary world. Her passion for food and dedication to her craft is evident in every dish she creates. With over 70 recipes to her name and over 1200 likes, Cathy is a force to be reckoned with in the kitchen."
   },
   {
     "id": 4,
@@ -29,15 +32,17 @@
     "chefName": "David Chen",
     "yearsOfExperience": 5,
     "numberOfRecipes": 20,
-    "likes": 500
+    "likes": 500,
+    "bio": "David Chen is a rising star in the culinary world with 5 years of experience under his belt. He is known for his innovative approach to cooking and his ability to create dishes that are both beautiful and delicious. With over 500 likes, his recipes are not to be missed."
   },
   {
     "id": 5,
     "chefPicture": "https://example.com/chef5.jpg",
-    "chefName": "Elena Rodriguez",
+    "chefName": "Elena Rodri",
     "yearsOfExperience": 12,
     "numberOfRecipes": 60,
-    "likes": 900
+    "likes": 900,
+    "bio": "Elena Rodriguez is a talented chef with 12 years of experience in the kitchen. She is known for her ability to take simple ingredients and turn them into extraordinary dishes that are both flavorful and visually stunning. With over 900 likes, her recipes are sure to impress."
   },
   {
     "id": 6,
@@ -45,6 +50,7 @@
     "chefName": "Frank Wilson",
     "yearsOfExperience": 7,
     "numberOfRecipes": 30,
-    "likes": 600
+    "likes": 600,
+    "bio": "Frank Wilson is a passionate chef with 7 years of experience in the culinary industry. He specializes in creating comfort food dishes with a modern twist and his recipes have earned him a loyal following. With over 600 likes, Frank's dishes are sure to satisfy any craving."
   }
 ]
