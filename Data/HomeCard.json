@@ -1,56 +1,274 @@
 [
   {
     "id": 1,
-    "chefPicture": "./images/chef1.jpg",
+    "chefPicture": "https://news.uga.edu/wp-content/uploads/2022/11/ChefJorgeNoriega-07-Square.jpg",
     "chefName": "Alice Smith",
     "yearsOfExperience": 10,
     "numberOfRecipes": 50,
     "likes": 1000,
-    "bio": "Alice Smith is a seasoned chef with 10 years of experience in the culinary industry. She has a passion for creating delicious and unique recipes that showcase her creativity and skill. Her recipes are loved by many and have garnered over 1000 likes."
+    "bio": "Cathy Lee is a master chef with 15 years of experience in the culinary world. Her passion for food and dedication to her craft is evident in every dish she creates. With over 70 recipes to her name and over 1200 likes, Cathy is a force to be reckoned with in the kitchen.",
+
+    "recipeName1": "Grilled Chicken",
+    "ingredients1": ["chicken breast", "olive oil", "garlic", "lemon", "salt"],
+    "cookingMethod1": "1. Preheat grill to medium-high heat. 2. Brush chicken with olive oil and season with garlic, lemon juice, and salt. 3. Grill chicken for 6 to 8 minutes on each side or until done.",
+    "rating1": 4.5,
+    "favorite1": false,
+
+    "recipeName2": "Pesto Pasta",
+    "ingredients2": [
+      "pasta",
+      "basil leaves",
+      "garlic",
+      "pine nuts",
+      "parmesan cheese"
+    ],
+    "cookingMethod2": "1. Cook pasta according to package instructions. 2. In a food processor, blend basil leaves, garlic, pine nuts, and parmesan cheese. 3. Drain pasta and toss with pesto sauce.",
+    "rating2": 4.2,
+    "favorite2": true,
+
+    "recipeName3": "Mushroom Risotto",
+    "ingredients3": [
+      "arborio rice",
+      "olive oil",
+      "onion",
+      "mushrooms",
+      "parmesan cheese"
+    ],
+    "cookingMethod3": "1. In a saucepan, heat olive oil and sauté onion until soft. 2. Add arborio rice and stir until coated with oil. 3. Gradually add hot water, stirring constantly until rice is tender. 4. Stir in mushrooms and parmesan cheese.",
+    "rating3": 4.8,
+    "favorite3": false
   },
   {
     "id": 2,
-    "chefPicture": "https://example.com/chef2.jpg",
+    "chefPicture": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
     "chefName": "Bob Johnson",
     "yearsOfExperience": 8,
     "numberOfRecipes": 40,
     "likes": 800,
-    "bio": "Bob Johnson is a talented chef with 8 years of experience in the kitchen. He specializes in creating classic dishes with a modern twist, and his recipes have earned him a loyal following. With over 800 likes, his dishes are sure to impress."
+    "bio": "David Chen is a rising star in the culinary world with 5 years of experience under his belt. He is known for his innovative approach to cooking and his ability to create dishes that are both beautiful and delicious. With over 500 likes, his recipes are not to be missed.",
+    
+      
+        "recipeName1": "Spaghetti Carbonara",
+        "ingredients1": [
+          "spaghetti",
+          "bacon",
+          "eggs",
+          "parmesan cheese",
+          "black pepper"
+        ],
+        "cookingMethod1": "1. Cook spaghetti according to package instructions. 2. In a skillet, cook bacon until crisp. 3. In a bowl, whisk together eggs, parmesan cheese, and black pepper. 4. Drain spaghetti and add to the skillet with bacon. 5. Pour in egg mixture and toss until well coated.",
+        "rating1": 4.6,
+        "favorite1": true,
+      
+      
+        "recipeName2": "Baked Salmon",
+        "ingredients2": ["salmon fillet", "lemon", "butter", "garlic", "dill"],
+        "cookingMethod2": "1. Preheat oven to 400°F. 2. Season salmon with salt and pepper. 3. In a saucepan, melt butter and add garlic and dill. 4. Pour butter mixture over salmon. 5. Top with lemon slices. 6. Bake for 12-15 minutes or until salmon is cooked through.",
+        "rating2": 4.3,
+        "favorite2": false,
+      
+      
+        "recipeName3": "Chicken Curry",
+        "ingredients3": [
+          "chicken thighs",
+          "onion",
+          "ginger",
+          "garlic",
+          "curry powder"
+        ],
+        "cookingMethod3": "1. In a skillet, cook chicken until browned. 2. Remove chicken from skillet and set aside. 3. In the same skillet, cook onion, ginger, and garlic until onion is translucent. 4. Stir in curry powder. 5. Add chicken back to the skillet and stir until coated in sauce. 6. Simmer for 10-15 minutes or until chicken is cooked through.",
+        "rating3": 4.9,
+        "favorite3": true
+      
+    
   },
   {
     "id": 3,
-    "chefPicture": "https://example.com/chef3.jpg",
-    "chefName": "Cathy Lee",
-    "yearsOfExperience": 15,
-    "numberOfRecipes": 70,
-    "likes": 1200,
-    "bio": "Cathy Lee is a master chef with 15 years of experience in the culinary world. Her passion for food and dedication to her craft is evident in every dish she creates. With over 70 recipes to her name and over 1200 likes, Cathy is a force to be reckoned with in the kitchen."
-  },
-  {
-    "id": 4,
-    "chefPicture": "https://example.com/chef4.jpg",
-    "chefName": "David Chen",
+    "chefPicture": "https://i.guim.co.uk/img/media/ab68e8d61c943d3ffd120620ca2ff4b54512bdd1/401_160_5359_3215/master/5359.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=790d2413c40d7452b46d41a7aba12895",
+    "chefName": "John Doe",
     "yearsOfExperience": 5,
     "numberOfRecipes": 20,
     "likes": 500,
-    "bio": "David Chen is a rising star in the culinary world with 5 years of experience under his belt. He is known for his innovative approach to cooking and his ability to create dishes that are both beautiful and delicious. With over 500 likes, his recipes are not to be missed."
+    "bio": "Elena Rodriguez is a talented chef with 12 years of experience in the kitchen. She is known for her ability to take simple ingredients and turn them into extraordinary dishes that are both flavorful and visually stunning. With over 900 likes, her recipes are sure to impress.",
+
+    "recipeName1": "Spicy Shrimp Stir-Fry",
+    "ingredients1": [
+      "shrimp",
+      "vegetable oil",
+      "garlic",
+      "ginger",
+      "bell pepper",
+      "onion",
+      "green beans",
+      "soy sauce",
+      "rice vinegar",
+      "brown sugar",
+      "cornstarch",
+      "red pepper flakes"
+    ],
+    "cookingMethod1": "1. Heat oil in a wok or large skillet over high heat. 2. Add shrimp, garlic, and ginger, and stir-fry for 2-3 minutes. 3. Add bell pepper, onion, and green beans, and stir-fry for another 2-3 minutes. 4. In a small bowl, whisk together soy sauce, rice vinegar, brown sugar, cornstarch, and red pepper flakes. 5. Pour sauce into the pan and stir-fry for an additional 1-2 minutes, until sauce thickens and shrimp are cooked through.",
+    "rating1": 4.6,
+    "favorite1": true,
+
+    "recipeName2": "Beef Stroganoff",
+    "ingredients2": [
+      "beef sirloin",
+      "onion",
+      "mushrooms",
+      "butter",
+      "flour",
+      "beef broth",
+      "sour cream",
+      "egg noodles"
+    ],
+    "cookingMethod2": "1. Cut beef into thin strips. 2. In a large skillet, cook beef and onion over medium heat until beef is no longer pink. 3. Remove beef and onion from skillet and set aside. 4. In the same skillet, cook mushrooms in butter until tender. 5. Stir in flour until blended. 6. Gradually stir in beef broth. 7. Bring to a boil; cook and stir for 2 minutes or until thickened. 8. Reduce heat to low; stir in sour cream. 9. Return beef and onion to skillet and heat through. 10. Serve over cooked egg noodles.",
+    "rating2": 4.2,
+    "favorite2": false,
+
+    "recipeName3": "Ratatouille",
+    "ingredients3": [
+      "eggplant",
+      "zucchini",
+      "yellow squash",
+      "red bell pepper",
+      "onion",
+      "garlic",
+      "tomato",
+      "olive oil",
+      "herbs de Provence"
+    ],
+    "cookingMethod3": "1. Preheat oven to 375°F. 2. Cut eggplant, zucchini, and yellow squash into 1/4-inch slices. 3. Core and seed the red bell pepper and cut into thin strips. 4. Chop the onion and mince the garlic. 5. Cut the tomato into 1/4-inch slices. 6. Spread 1/4 cup of the olive oil in a 9x13 inch baking dish. 7. Arrange the sliced vegetables in the baking dish, alternating and overlapping them. 8. Drizzle with the remaining olive oil and sprinkle with herbs de Provence. 9. Bake for 45-50 minutes, or until the vegetables are tender and lightly browned.",
+    "rating3": 4.4,
+    "favorite3": true
+  },
+  {
+    "id": 4,
+    "chefPicture": "https://i.guim.co.uk/img/media/0606b344791ea19db6921af4e4f7df4563a49031/263_598_2892_1735/master/2892.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=57867b5e0497acc8891c5eb1368f36fc",
+    "chefName": "John Doe",
+    "yearsOfExperience": 5,
+    "numberOfRecipes": 20,
+    "likes": 500,
+    "bio": "Frank Wilson is a passionate chef with 7 years of experience in the culinary industry. He specializes in creating comfort food dishes with a modern twist and his recipes have earned him a loyal following. With over 600 likes, Frank's dishes are sure to satisfy any craving.",
+
+    "recipeName1": "Vegetable Stir Fry",
+    "ingredients1": [
+      "broccoli",
+      "carrots",
+      "bell peppers",
+      "snow peas",
+      "soy sauce"
+    ],
+    "cookingMethod1": "1. Heat oil in a wok or large skillet. 2. Add broccoli, carrots, and bell peppers and stir fry for 2-3 minutes. 3. Add snow peas and stir fry for another minute. 4. Add soy sauce and cook for an additional minute.",
+    "rating1": 4.0,
+    "favorite1": false,
+
+    "recipeName2": "Spicy Shrimp Tacos",
+    "ingredients2": [
+      "shrimp",
+      "taco shells",
+      "lettuce",
+      "tomatoes",
+      "sour cream"
+    ],
+    "cookingMethod2": "1. Heat oil in a large skillet. 2. Add shrimp and cook until pink. 3. Fill taco shells with lettuce, tomatoes, and cooked shrimp. 4. Top with a dollop of sour cream.",
+    "rating2": 4.5,
+    "favorite2": true,
+
+    "recipeName3": "Beef Stroganoff",
+    "ingredients3": [
+      "beef sirloin",
+      "egg noodles",
+      "mushrooms",
+      "sour cream",
+      "beef broth"
+    ],
+    "cookingMethod3": "1. Cook egg noodles according to package instructions. 2. In a large skillet, cook beef sirloin until browned. 3. Add mushrooms and cook until tender. 4. Stir in sour cream and beef broth. 5. Serve over cooked egg noodles.",
+    "rating3": 4.3,
+    "favorite3": false
   },
   {
     "id": 5,
-    "chefPicture": "https://example.com/chef5.jpg",
-    "chefName": "Elena Rodri",
-    "yearsOfExperience": 12,
-    "numberOfRecipes": 60,
-    "likes": 900,
-    "bio": "Elena Rodriguez is a talented chef with 12 years of experience in the kitchen. She is known for her ability to take simple ingredients and turn them into extraordinary dishes that are both flavorful and visually stunning. With over 900 likes, her recipes are sure to impress."
+    "chefPicture": "https://i.guim.co.uk/img/media/0606b344791ea19db6921af4e4f7df4563a49031/263_598_2892_1735/master/2892.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=57867b5e0497acc8891c5eb1368f36fc",
+    "chefName": "John Kim",
+    "yearsOfExperience": 8,
+    "numberOfRecipes": 30,
+    "likes": 500,
+    "bio": "Alice Smith is a seasoned chef with 10 years of experience in the culinary industry. She has a passion for creating delicious and unique recipes that showcase her creativity and skill. Her recipes are loved by many and have garnered over 1000 likes.",
+
+    "recipeName1": "Korean BBQ Beef",
+    "ingredients1": [
+      "beef sirloin",
+      "soy sauce",
+      "sugar",
+      "garlic",
+      "sesame oil"
+    ],
+    "cookingMethod1": "1. Mix soy sauce, sugar, garlic, and sesame oil in a bowl. 2. Marinate beef in mixture for at least 1 hour. 3. Grill beef on high heat for 3-5 minutes per side or until desired doneness.",
+    "rating1": 4.7,
+    "favorite1": true,
+
+    "recipeName2": "Japchae Noodles",
+    "ingredients2": [
+      "sweet potato noodles",
+      "spinach",
+      "carrots",
+      "beef",
+      "shiitake mushrooms"
+    ],
+    "cookingMethod2": "1. Cook noodles according to package instructions. 2. Sauté spinach, carrots, beef, and mushrooms in a pan. 3. Mix cooked noodles with sautéed ingredients.",
+    "rating2": 4.3,
+    "favorite2": false,
+
+    "recipeName3": "Kimchi Fried Rice",
+    "ingredients3": ["cooked rice", "kimchi", "bacon", "eggs", "green onions"],
+    "cookingMethod3": "1. Cook bacon in a pan until crispy. 2. Add cooked rice, kimchi, and green onions to the pan. 3. Fry eggs in the pan and place on top of the fried rice.",
+    "rating3": 4.5,
+    "favorite3": true
   },
+
   {
     "id": 6,
-    "chefPicture": "https://example.com/chef6.jpg",
-    "chefName": "Frank Wilson",
-    "yearsOfExperience": 7,
+    "chefPicture": "https://news.uga.edu/wp-content/uploads/2022/11/ChefJorgeNoriega-07-Square.jpg",
+    "chefName": "Juan Rodri",
+    "yearsOfExperience": 8,
     "numberOfRecipes": 30,
-    "likes": 600,
-    "bio": "Frank Wilson is a passionate chef with 7 years of experience in the culinary industry. He specializes in creating comfort food dishes with a modern twist and his recipes have earned him a loyal following. With over 600 likes, Frank's dishes are sure to satisfy any craving."
+    "likes": 500,
+    "bio": "Bob Johnson is a talented chef with 8 years of experience in the kitchen. He specializes in creating classic dishes with a modern twist, and his recipes have earned him a loyal following. With over 800 likes, his dishes are sure to impress.",
+
+    "recipeName1": "Fish Tacos",
+    "ingredients1": [
+      "tilapia fillets",
+      "taco seasoning",
+      "flour tortillas",
+      "shredded cabbage",
+      "sour cream"
+    ],
+    "cookingMethod1": "1. Preheat oven to 375°F. 2. Rub taco seasoning on tilapia fillets and place them on a baking sheet. 3. Bake fish for 12 to 15 minutes. 4. Warm flour tortillas in a skillet. 5. Assemble tacos with shredded cabbage, fish, and a dollop of sour cream.",
+    "rating1": 4.6,
+    "favorite1": true,
+
+    "recipeNam2e": "Chicken Curry",
+    "ingredients2": [
+      "boneless chicken thighs",
+      "coconut milk",
+      "curry powder",
+      "onion",
+      "garlic"
+    ],
+    "cookingMethod2": "1. In a skillet, sauté onion and garlic until soft. 2. Add chicken and curry powder, and cook until chicken is browned. 3. Add coconut milk and simmer for 15 to 20 minutes, stirring occasionally.",
+    "rating2": 4.3,
+    "favorite2": false,
+
+    "recipeName3": "Caprese Salad",
+    "ingredients3": [
+      "tomatoes",
+      "fresh mozzarella",
+      "fresh basil",
+      "balsamic vinegar",
+      "olive oil"
+    ],
+    "cookingMethod3": "1. Slice tomatoes and fresh mozzarella. 2. Arrange the tomato and mozzarella slices on a plate. 3. Drizzle balsamic vinegar and olive oil over the salad. 4. Garnish with fresh basil leaves.",
+    "rating3": 4.7,
+    "favorite3": true
   }
 ]
