@@ -1,82 +1,82 @@
 [
   {
     "id": 1,
-    "chefPicture": "https://news.uga.edu/wp-content/uploads/2022/11/ChefJorgeNoriega-07-Square.jpg",
-    "chefName": "Alice Smith",
+    "chefPicture": "https://4.bp.blogspot.com/-V_XkjJhRnLk/VU3Kee6qEHI/AAAAAAAAEKo/UkKrfxKWUjk/s1600/IMG_0066.JPG",
+    "chefName": "Taichi Ito",
     "yearsOfExperience": 10,
     "numberOfRecipes": 50,
     "likes": 1000,
     "bio": "Cathy Lee is a master chef with 15 years of experience in the culinary world. Her passion for food and dedication to her craft is evident in every dish she creates. With over 70 recipes to her name and over 1200 likes, Cathy is a force to be reckoned with in the kitchen.",
 
-    "recipeName1": "Grilled Chicken",
-    "ingredients1": ["chicken breast", "olive oil", "garlic", "lemon", "salt"],
-    "cookingMethod1": "1. Preheat grill to medium-high heat. 2. Brush chicken with olive oil and season with garlic, lemon juice, and salt. 3. Grill chicken for 6 to 8 minutes on each side or until done.",
+    "recipeName1": "Sushi rolls",
+    "ingredients1": ["Sushi rice", "Nori (dried seaweed sheets)", "Rice vinegar", "Mirin (Japanese sweet rice wine)", "Wasabi (Japanese horseradish)"],
+    "cookingMethod1": "Place a sheet of nori shiny side down on a sushi mat or piece of plastic wrap. Wet your hands with water and spread a thin layer of sushi rice over the nori, leaving a 1-inch border at the top. Arrange the desired fillings in a line down the center of the rice.Use the sushi mat or plastic wrap to tightly roll the sushi, pressing firmly as you go. Remove the sushi from the mat or plastic wrap and slice into bite-sized pieces. Serve with soy sauce, pickled ginger, and wasabi.            ",
     "rating1": 4.5,
     "favorite1": false,
 
-    "recipeName2": "Pesto Pasta",
+    "recipeName2": "Miso soup",
     "ingredients2": [
-      "pasta",
-      "basil leaves",
-      "garlic",
-      "pine nuts",
-      "parmesan cheese"
+      "Dashi stock",
+      "Miso paste",
+      "Tofu (soft or firm, cubed)",
+      "Wakame seaweed",
+      "Green onions"
     ],
-    "cookingMethod2": "1. Cook pasta according to package instructions. 2. In a food processor, blend basil leaves, garlic, pine nuts, and parmesan cheese. 3. Drain pasta and toss with pesto sauce.",
+    "cookingMethod2": "Heat dashi (Japanese soup stock) and sliced vegetables in a pot. Dissolve miso paste in a small amount of hot water and add to the pot. Simmer until the vegetables are cooked and the soup is heated through.Serve hot.",
     "rating2": 4.2,
     "favorite2": true,
 
-    "recipeName3": "Mushroom Risotto",
+    "recipeName3": "Teriyaki chicken",
     "ingredients3": [
-      "arborio rice",
-      "olive oil",
-      "onion",
-      "mushrooms",
-      "parmesan cheese"
+      "skinless chicken",
+      "Soy sauce",
+      "Mirin (sweet rice wine)",
+      "Sake (Japanese rice wine)",
+      "Sugar, Garlic"
     ],
-    "cookingMethod3": "1. In a saucepan, heat olive oil and sauté onion until soft. 2. Add arborio rice and stir until coated with oil. 3. Gradually add hot water, stirring constantly until rice is tender. 4. Stir in mushrooms and parmesan cheese.",
+    "cookingMethod3": "In a small bowl, whisk together soy sauce, mirin, sake, sugar, garlic, and ginger.Place chicken in a large resealable plastic bag and add the marinade. Seal the bag and refrigerate for at least 1 hour, or up to overnight.Preheat the grill or broiler. Remove chicken from the marinade and discard the marinade.Grill or broil the chicken, turning occasionally, until cooked through and caramelized on both sides, about 8-10 minutes.Serve hot with steamed rice and your favorite vegetables.",
     "rating3": 4.8,
     "favorite3": false
   },
   {
     "id": 2,
-    "chefPicture": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
-    "chefName": "Bob Johnson",
+    "chefPicture": "https://savorjapan.com/special/en/life-in-the-kitchen/img/01/12.jpg",
+    "chefName": "Koji Kimura",
     "yearsOfExperience": 8,
     "numberOfRecipes": 40,
     "likes": 800,
     "bio": "David Chen is a rising star in the culinary world with 5 years of experience under his belt. He is known for his innovative approach to cooking and his ability to create dishes that are both beautiful and delicious. With over 500 likes, his recipes are not to be missed.",
     
       
-        "recipeName1": "Spaghetti Carbonara",
+        "recipeName1": "Tempura shrimp",
         "ingredients1": [
-          "spaghetti",
-          "bacon",
-          "eggs",
-          "parmesan cheese",
-          "black pepper"
+          "Shrimp",
+          "Flour",
+          "Cornstarch",
+          "Baking powder",
+          "Salt, Ice water"
         ],
-        "cookingMethod1": "1. Cook spaghetti according to package instructions. 2. In a skillet, cook bacon until crisp. 3. In a bowl, whisk together eggs, parmesan cheese, and black pepper. 4. Drain spaghetti and add to the skillet with bacon. 5. Pour in egg mixture and toss until well coated.",
+        "cookingMethod1": "Heat oil in a deep frying pan.Mix flour, cornstarch, baking powder, and salt in a bowl.Add ice water to the mixture and whisk until smooth.Dip the shrimp in the batter and fry until golden brown.",
         "rating1": 4.6,
         "favorite1": true,
       
       
-        "recipeName2": "Baked Salmon",
-        "ingredients2": ["salmon fillet", "lemon", "butter", "garlic", "dill"],
-        "cookingMethod2": "1. Preheat oven to 400°F. 2. Season salmon with salt and pepper. 3. In a saucepan, melt butter and add garlic and dill. 4. Pour butter mixture over salmon. 5. Top with lemon slices. 6. Bake for 12-15 minutes or until salmon is cooked through.",
+        "recipeName2": "Ramen noodles",
+        "ingredients2": ["Fresh or dried ramen noodles", "Broth", "Protein (sliced pork)", "Vegetables ", "Flavorings "],
+        "cookingMethod2": "Bring a pot of water to boil and cook the noodles according to package instructions.In a separate pot, heat up the broth and add the protein and vegetables.Simmer until the protein is cooked and the vegetables are tender.Add the flavorings to the broth and adjust to taste.Drain the noodles and divide them into bowls.Pour the hot broth over the noodles and serve immediately.",
         "rating2": 4.3,
         "favorite2": false,
       
       
-        "recipeName3": "Chicken Curry",
+        "recipeName3": "Yakitori skewers",
         "ingredients3": [
-          "chicken thighs",
-          "onion",
-          "ginger",
-          "garlic",
-          "curry powder"
+          "Chicken thighs",
+          "Soy sauce",
+          "Sake",
+          "Mirin",
+          "Scallions, Bamboo skewers"
         ],
-        "cookingMethod3": "1. In a skillet, cook chicken until browned. 2. Remove chicken from skillet and set aside. 3. In the same skillet, cook onion, ginger, and garlic until onion is translucent. 4. Stir in curry powder. 5. Add chicken back to the skillet and stir until coated in sauce. 6. Simmer for 10-15 minutes or until chicken is cooked through.",
+        "cookingMethod3": "Cut chicken thighs into small, bite-sized pieces and skewer them onto bambooskewersInasaucepan, mix together soy sauce, sake, mirin, and sugar. Heat over medium heat until the sugarhas dissolved.Brush the sauce onto the chicken skewers and grill them over medium-high heat, turning occasionally and brushing with more sauce, until the chicken is cooked through and the skewers are caramelized.Garnish with chopped scallions and serve hot.",
         "rating3": 4.9,
         "favorite3": true
       
@@ -84,66 +84,66 @@
   },
   {
     "id": 3,
-    "chefPicture": "https://i.guim.co.uk/img/media/ab68e8d61c943d3ffd120620ca2ff4b54512bdd1/401_160_5359_3215/master/5359.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=790d2413c40d7452b46d41a7aba12895",
-    "chefName": "John Doe",
+    "chefPicture": "https://media.licdn.com/dms/image/C4E03AQFgczYmoxvLTw/profile-displayphoto-shrink_800_800/0/1644289606909?e=2147483647&v=beta&t=ZUOGEp1LoS2wB1LdXg76PRXsp0Ptun7B_zHAdj6sW9k",
+    "chefName": "Ryusuke ",
     "yearsOfExperience": 5,
     "numberOfRecipes": 20,
     "likes": 500,
     "bio": "Elena Rodriguez is a talented chef with 12 years of experience in the kitchen. She is known for her ability to take simple ingredients and turn them into extraordinary dishes that are both flavorful and visually stunning. With over 900 likes, her recipes are sure to impress.",
 
-    "recipeName1": "Spicy Shrimp Stir-Fry",
+    "recipeName1": "Okonomiyaki pancakes",
     "ingredients1": [
-      "shrimp",
-      "vegetable oil",
-      "garlic",
-      "ginger",
-      "bell pepper",
-      "onion",
+      "2 cups all-purpose flour",
+      "1 tsp baking powder",
+      "1/2 tsp salt",
+      "2 large eggs",
+      "1 1/2 cups water",
+      "1/2 head green cabbage, finely shredded",
       "green beans",
-      "soy sauce",
-      "rice vinegar",
+      "5 green onions, finely sliced",
+      "1/2 cup tenkasu (tempura scraps)",
       "brown sugar",
       "cornstarch",
       "red pepper flakes"
     ],
-    "cookingMethod1": "1. Heat oil in a wok or large skillet over high heat. 2. Add shrimp, garlic, and ginger, and stir-fry for 2-3 minutes. 3. Add bell pepper, onion, and green beans, and stir-fry for another 2-3 minutes. 4. In a small bowl, whisk together soy sauce, rice vinegar, brown sugar, cornstarch, and red pepper flakes. 5. Pour sauce into the pan and stir-fry for an additional 1-2 minutes, until sauce thickens and shrimp are cooked through.",
+    "cookingMethod1": "In a large bowl, whisk together the flour, baking powder, and salt.In a separate bowl, beat the eggs and water together.Add the egg mixture to the flour mixture and whisk until smooth.Add the cabbage, green onions, tenkasu, shrimp, squid, and pork belly to the batter and mix well.Heat a large non-stick pan or griddle over medium heat.Pour a ladleful of batter onto the pan and spread it out into a circle.",
     "rating1": 4.6,
     "favorite1": true,
 
-    "recipeName2": "Beef Stroganoff",
+    "recipeName2": "Udon noodle soup",
     "ingredients2": [
-      "beef sirloin",
-      "onion",
-      "mushrooms",
-      "butter",
-      "flour",
-      "beef broth",
-      "sour cream",
-      "egg noodles"
+      "8 cups dashi (Japanese soup stock)",
+      "1/2 cup soy sauce",
+      "2 tbsp sugar",
+      "1/2 cup mirin",
+      "1 tbsp salt",
+      "1 tbsp sake",
+      "8 oz udon noodles",
+      "4 green onions, thinly sliced"
     ],
-    "cookingMethod2": "1. Cut beef into thin strips. 2. In a large skillet, cook beef and onion over medium heat until beef is no longer pink. 3. Remove beef and onion from skillet and set aside. 4. In the same skillet, cook mushrooms in butter until tender. 5. Stir in flour until blended. 6. Gradually stir in beef broth. 7. Bring to a boil; cook and stir for 2 minutes or until thickened. 8. Reduce heat to low; stir in sour cream. 9. Return beef and onion to skillet and heat through. 10. Serve over cooked egg noodles.",
+    "cookingMethod2": "In a pot, combine the dashi, soy sauce, mirin, sugar, sake, and salt. Bring to a simmer over medium heat.Add the udon noodles and cook until tender, about 6-8 minutes.Divide the cooked noodles and soup broth among four bowls.Top each bowl with green onions, shiitake mushrooms, bamboo shoots, a halved hard-boiled egg, and a sheet of nori.Serve hot.",
     "rating2": 4.2,
     "favorite2": false,
 
-    "recipeName3": "Ratatouille",
+    "recipeName3": "Soba Noodle Salad",
     "ingredients3": [
-      "eggplant",
-      "zucchini",
-      "yellow squash",
-      "red bell pepper",
-      "onion",
-      "garlic",
-      "tomato",
-      "olive oil",
-      "herbs de Provence"
+      "soba noodles",
+      "lettuce",
+      "cucumber",
+      "carrot",
+      "green onion",
+      "cilantro",
+      "sesame  seeds",
+      "soy sauce",
+      "rice vinegar"
     ],
-    "cookingMethod3": "1. Preheat oven to 375°F. 2. Cut eggplant, zucchini, and yellow squash into 1/4-inch slices. 3. Core and seed the red bell pepper and cut into thin strips. 4. Chop the onion and mince the garlic. 5. Cut the tomato into 1/4-inch slices. 6. Spread 1/4 cup of the olive oil in a 9x13 inch baking dish. 7. Arrange the sliced vegetables in the baking dish, alternating and overlapping them. 8. Drizzle with the remaining olive oil and sprinkle with herbs de Provence. 9. Bake for 45-50 minutes, or until the vegetables are tender and lightly browned.",
+    "cookingMethod3": "Cook soba noodles, chop vegetables, mix together soy sauce, rice vinegar, honey, and sesame oil, toss everything together and sprinkle with sesame seeds.",
     "rating3": 4.4,
     "favorite3": true
   },
   {
     "id": 4,
-    "chefPicture": "https://i.guim.co.uk/img/media/0606b344791ea19db6921af4e4f7df4563a49031/263_598_2892_1735/master/2892.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=57867b5e0497acc8891c5eb1368f36fc",
+    "chefPicture": "https://www.jetsetmag.com/wp-content/uploads/2017/04/SakaMai-Akiyama-Chef-e1493067185666.jpg",
     "chefName": "John Doe",
     "yearsOfExperience": 5,
     "numberOfRecipes": 20,
@@ -188,7 +188,7 @@
   },
   {
     "id": 5,
-    "chefPicture": "https://i.guim.co.uk/img/media/0606b344791ea19db6921af4e4f7df4563a49031/263_598_2892_1735/master/2892.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=57867b5e0497acc8891c5eb1368f36fc",
+    "chefPicture": "data:image/jpeg;base64,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",
     "chefName": "John Kim",
     "yearsOfExperience": 8,
     "numberOfRecipes": 30,
@@ -228,7 +228,7 @@
 
   {
     "id": 6,
-    "chefPicture": "https://news.uga.edu/wp-content/uploads/2022/11/ChefJorgeNoriega-07-Square.jpg",
+    "chefPicture": "https://static01.nyt.com/images/2007/06/20/dining/24waki650.1.jpg?quality=75&auto=webp&disable=upscale",
     "chefName": "Juan Rodri",
     "yearsOfExperience": 8,
     "numberOfRecipes": 30,
